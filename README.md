@@ -1,0 +1,1 @@
+# deployment-replica-prometheus-daemonset-node-exporter
